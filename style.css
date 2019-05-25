@@ -77,3 +77,10 @@ header.startup h1 {
 
 }
 
+.button 
+{
+	text-align: center !important;
+	display: flex;
+	justify-content: center;
+
+}
