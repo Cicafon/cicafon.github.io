@@ -70,3 +70,11 @@ header.startup h1 {
 form#mc_embed_signup{
 	text-align: center;
 }
+
+#mc-embedded-subscribe
+{
+	text-align: center;
+}
+#mc-embedded-subscribe-form{
+	text-align: center;
+}
