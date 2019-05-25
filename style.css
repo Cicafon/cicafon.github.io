@@ -78,3 +78,7 @@ form#mc_embed_signup{
 #mc-embedded-subscribe-form{
 	text-align: center;
 }
+
+form#mc-embedded-subscribe-form.validate{
+	text-align: center;
+}
