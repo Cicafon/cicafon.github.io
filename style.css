@@ -67,6 +67,6 @@ header.startup h1 {
   cursor: pointer;
 }
 
-#mc_embed_signup {
+#mc_embed_signup form{
 	text-align: center;
 }
