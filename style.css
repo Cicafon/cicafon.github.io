@@ -69,6 +69,11 @@ header.startup h1 {
 
 
 .clear {
-	text-align: center!important;
+	text-align: center !important;
+
+}
+
+btn {
+	text-align: center !important;
 
 }
