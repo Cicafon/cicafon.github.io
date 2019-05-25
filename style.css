@@ -90,4 +90,11 @@ header.startup text-center d-flex {
 
 }
 
+form 
+{
+	text-align: center !important;
+	display: flex;
+	justify-content: center;
+
+}
 #mc_embed_signup form {display:block; position:relative; text-align:left !important; padding:10px 0 10px 3%}
