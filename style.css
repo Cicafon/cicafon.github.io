@@ -67,18 +67,9 @@ header.startup h1 {
   cursor: pointer;
 }
 
-form#mc_embed_signup{
-	text-align: center;
-}
 
-#mc-embedded-subscribe
-{
+#mc_embed_signup form{
 	text-align: center;
-}
-#mc-embedded-subscribe-form{
-	text-align: center;
-}
-
-form#mc-embedded-subscribe-form.validate{
-	text-align: center;
+	display: flex;
+	justify-content: center;
 }
