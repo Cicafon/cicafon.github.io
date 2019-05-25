@@ -98,3 +98,7 @@ form
 
 }*/
 #mc_embed_signup form {display:block; position:relative; text-align:center !important; margin:0px}
+
+.col-lg-12 {
+	padding: 0px 0px;
+}
